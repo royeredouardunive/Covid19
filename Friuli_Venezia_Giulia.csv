@@ -632,7 +632,7 @@ date;positives;Average;daily_test;test_positives;Intensive_Care
 15/11/2021;379;505.2;9624;3.94;23
 16/11/2021;313;437.8;31474;0.99;25
 17/11/2021;687;459.8;23057;2.98;25
-=======
+=======;;;;;
 date;positives;Average;daily_test;test_positives;Intensive_Care
 24/02/2020;0;0;58;0;0
 25/02/2020;0;0;31;0;0
